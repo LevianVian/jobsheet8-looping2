@@ -1,4 +1,4 @@
-// NumericTriangle.java
+
 import java.util.Scanner;
 
 public class Assignment1 {
