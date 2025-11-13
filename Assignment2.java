@@ -1,4 +1,4 @@
-// StarTriangleDesc.java
+
 import java.util.Scanner;
 
 public class Assignment2 {
